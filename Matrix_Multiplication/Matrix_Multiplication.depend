@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542728229 source:/home/smsm/Documents/Linux-Cpp/Matrix_Multiplication/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<thread>
+
