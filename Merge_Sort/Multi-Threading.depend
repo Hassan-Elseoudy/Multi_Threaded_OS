@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542674586 source:/home/smsm/Documents/Linux-Cpp/Multi-Threading/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<thread>
+	<mutex>
+	<chrono>
+
